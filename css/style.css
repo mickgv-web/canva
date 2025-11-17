@@ -1,4 +1,12 @@
-canvas {
-    border: 1px solid black;
-    background-color: #1a1a1a;
-}
+ body {
+      background-color: #0a0a1a; 
+      margin: 0;      
+      overflow: hidden;     
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    canvas {
+      background: #0a0a1a;
+    }
